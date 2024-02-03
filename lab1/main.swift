@@ -3,7 +3,6 @@
 //  lab1
 //
 //  Created by Канапия Базарбаев on 02.02.2024.
-//
 
 import Foundation
 
